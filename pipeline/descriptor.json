@@ -33,7 +33,7 @@
             "Runtime":"python",
             "Name":"pfa-iris-classifier01",
 			"Replicas": 1,
-			"DockerImage" : "bigoyang/hadrian-python-model:0.1.0",
+			"DockerImage" : "bigoyang/hadrian-python-model:0.2.0",
 			"Volumes" : [
 				{
 					"Name" : "artifacts",
