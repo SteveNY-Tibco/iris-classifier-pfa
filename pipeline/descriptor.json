@@ -27,10 +27,6 @@
                 	"Value":"$ID$"
                 },
                 {
-                	"Name":"System.Port",
-                	"Value":"$Port$"
-                },
-                {
                 	"Name":"System.ServiceLocatorIP",
                 	"Value":"$ServiceLocatorIP$"
                 }
