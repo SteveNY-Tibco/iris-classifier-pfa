@@ -27,8 +27,8 @@
                 	"Value":"$ID$"
                 },
                 {
-                	"Name":"System.ServiceLocatorIP",
-                	"Value":"$ServiceLocatorIP$"
+                	"Name":"System.ServiceLocator",
+                	"Value":"$ServiceLocator$"
                 }
             ]
         },
